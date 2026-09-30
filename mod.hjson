@@ -1,0 +1,10 @@
+name: the-ring-of-hell-map-pack
+displayName: "The Ring of Hell"
+subtitle: "There is something.../"
+author: "Xenonix"
+description:The Ring of Hell — a pack of 7 sectors maps
+version: "1.0"
+minGameVersion: "160.5"
+java: false
+hidden: true
+repo: Xenonixq/The Ring of Hell
